@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": ""
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "",
+    "ENABLE_ORYX_BUILD": "true",
+    "SCM_DO_BUILD_DURING_DEPLOYMENT": "1",
+    "BUILD_FLAGS": "UseExpressBuild",
+    "XDG_CACHE_HOME": "/tmp/.cache"
+  },
+  "ConnectionStrings": {}
+}
