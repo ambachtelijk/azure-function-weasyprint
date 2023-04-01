@@ -1,2 +1,2 @@
-azure-functions==1.0.5
-WeasyPrint==50
+azure-functions==1.13.3
+WeasyPrint==58.1
